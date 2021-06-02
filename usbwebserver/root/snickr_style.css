@@ -1,0 +1,45 @@
+/* the website style is defined here */
+
+body{ font: 15px sans-serif;
+    background-color: transparent;	
+}
+
+.login-form{
+	max-width: 30%;
+	margin: 10% auto;
+}
+
+.registration-form{
+    max-width: 30%;
+    margin: 10px auto;
+}
+
+.container-fluid{ 
+    border-radius: 10px; 
+    margin-top: 0px; 
+    width: 100%; 
+    max-width: 100%;
+    display: inline-block;
+    background-color: rgba(255, 255, 255, 0.7);
+}
+
+.navbar{
+    width: 100%;
+}
+
+.form-style{
+    padding-left: 25%;
+    padding-right: 25%;
+}
+
+html { 
+    background: url('https://images.pexels.com/photos/1496139/pexels-photo-1496139.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500') no-repeat center center fixed; 
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+
+.form-inline {
+  float: right;
+}
